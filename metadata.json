@@ -1,0 +1,5 @@
+{
+  "name": "Bonhoeffer Sales Dashboard",
+  "description": "A high-performance sales analytics dashboard for Bonhoeffer, featuring real-time data synchronization with Google Sheets, client-specific product tracking, and global sales performance visualizations.",
+  "requestFramePermissions": []
+}
